@@ -17,21 +17,6 @@ O design desta landing page foi baseado no protótipo disponível no Figma:
 
 - [Protótipo no Figma](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6703-88&p=f&t=illaoycFT45C9bqw-0)
 
-## ✨ Funcionalidades
-
-- ✅ **Design Responsivo**: Totalmente adaptável para desktop, tablet e mobile
-- ✅ **Menu Hamburger**: Menu lateral interativo para navegação em dispositivos móveis
-- ✅ **Seções Organizadas**:
-  - Header com título impactante e ondas sonoras
-  - Produtos Recomendados
-  - Categorias de produtos
-  - Como Comprar (How to Buy)
-  - Formulário de Contato
-  - Footer com informações da marca
-- ✅ **Otimização de Imagens**: Uso de `srcset` para carregamento otimizado em diferentes resoluções
-- ✅ **Smooth Scroll**: Navegação suave entre seções
-- ✅ **Animações CSS**: Transições e efeitos visuais elegantes
-
 ## 🛠️ Tecnologias Utilizadas
 
 - **HTML5**: Estrutura semântica e acessível
@@ -72,7 +57,7 @@ npm install
 npm start
 ```
 
-A aplicação será aberta automaticamente no seu navegador padrão em `http://localhost:1234`
+A aplicação será aberta automaticamente no seu navegador padrão em `http://localhost:8080`
 
 ## 📜 Scripts Disponíveis
 
